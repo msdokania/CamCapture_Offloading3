@@ -1,5 +1,5 @@
 # CamCapture_Offloading3
-Mobile Offloading Android Application
+CSE535 Mobile Computing - Offloading Android Application
 
 Title - Android Image Classification and
 Offloading
