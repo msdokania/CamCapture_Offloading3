@@ -28,7 +28,7 @@ in the relevant folder on the mobile internal storage.
 Project files -
 - The main.py is used to create and run flask servers on different devices. Each of these servers use an already trained model 'mymodel.h5' in order to carry out the task of classification of handwritten digits.
 - The Train_model_and_Save.ipynb file is used to save the model in .h5 format.
-- As part of the initial stages of project development, a single Flask server was built to carry out the task of classification as well as prediction of the new input data received on the server. This is compiled as a separate piece of code in 'Assignment2 - Single Flask server classification' and can be run independently as a server.
+- As part of the initial stages of project development, a single Flask server was built to carry out the task of classification as well as prediction of the new input data received on the server. This is compiled as a separate piece of code in 'MobileComputing-Assignment2 - Single Flask server classification' and can be run independently as a server.
 
 Install - 
 1. Start the flask server on 4 different laptops by running the main.py file, and run the
